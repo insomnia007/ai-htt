@@ -1,0 +1,152 @@
+#1 Chat limitation - state of knowledge as of a given day depending on the GPT version
+- let's compare answers between models
+
+** PROMPT **
+
+What is Google Bard?
+
+** PROMPT **
+
+#2 Connect chat with the Internet
+
+Plugin available
+https://tools.zmo.ai/webchatgpt
+
+Exercise 1
+
+** PROMPT **
+
+What is Google Bard?
+
+** PROMPT **
+
+Exercise 2
+
+** PROMPT **
+
+News from 22.11.2023
+
+** PROMPT **
+
+Exercise 3
+
+** PROMPT **
+
+Tell me what's an Artificial Intelligence?
+
+** PROMPT **
+
+Advantages? Sources.
+
+Defects? Often, prompting without web access enabled works more effectively.
+This is a "pin" for search engines, but it may make the chat easier to use in some situations.
+
+Let's check it with Google Gemini.
+
+#2.1 Let's check some prepared 1 click prompts in WebChatGPT for example: Ebook Outline
+
+** PROMPT **
+
+The magical conference
+
+** PROMPT **
+
+#3 Working with a longer text - application for a conference
+
+a) GPT4 approach
+
+** PROMPT **
+
+I will upload a file, wait for my instructions.
+
+** PROMPT **
+
+Let's upload file paper.txt
+
+#3.1 Writing abstracts and extended abstracts
+
+EXTENDED
+
+** PROMPT **
+
+ok, please make me 1500 words (exactly) abstract for this text
+
+** PROMPT **
+
+SHORT
+
+** PROMPT **
+
+ok, please make me 250 words (exactly) abstract for this text
+
+** PROMPT **
+
+#3.2 Keywords
+
+** PROMPT **
+
+suggest me some keywords for this abstract
+
+** PROMPT **
+
+#3.3 Bibliography/literature
+
+** PROMPT **
+
+extract and write down bibliography with numeration in listing format [1], [2]. [3] etc.
+
+** PROMPT **
+
+b) GPT3 approach
+
+How to bypass the 15,000 character limit? Let's load longer text using tool
+https://chatgpt-prompt-splitter.jjdiaz.dev/
+
+now let's repeat all of the prompts
+
+#4. Conversation about pdf without having ChatGPT plus
+
+Let's open https://www.chatpdf.com/
+
+Let's download paper.pdf and upload it to chat pdf.
+
+Start a conversation.
+
+#5. Creative way to speed up making presentation
+
+https://chat.openai.com/share/aaea5f0e-a8cf-4f59-a160-6f8fdf85d101
+
+5.1 another way but with PowerPoint not html
+
+** PROMPT **
+
+Write me VBA PowerPoint codes on Vacations in Poland. Make 10 slides. Cover most important places to see.
+
+** PROMPT **
+
+https://chat.openai.com/share/211b927c-be2d-4c0e-96a2-db48efcaed4b
+
+5.1 another way but with use of GPT4
+
+** PROMPT **
+
+You are an expert in creating Pitch decks. Generate a PowerPoint Pitch deck for a startup that specialize in reducing food waste. Structure the presentation into the following sections:
+Problem, Solution, Business model, Competition, Marketing plan and Fundraising. Use a maximum of 8 slides.
+
+** PROMPT **
+
+https://chat.openai.com/share/1a47af09-cb77-4641-b58f-8e2f2c89b14b
+
+5.2 GPT4 only - creating mind maps and flowcharts by Whimsical Diagrams
+
+** PROMPT **
+
+Create a mind map on Best AI workshop ideas
+
+** PROMPT **
+
+** PROMPT **
+
+Create a flowchart on making perfect public presentation
+
+** PROMPT **

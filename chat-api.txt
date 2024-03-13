@@ -1,0 +1,13 @@
+#1. Simple way - using built-in assistants feature directly in OpenAI API section
+
+https://platform.openai.com/assistants
+
+#2. Examples available in playground
+https://platform.openai.com/examples
+
+#3. API basics with completions
+https://platform.openai.com/docs/guides/text-generation/chat-completions-api
+
+#4. Samples in .py files
+
+#5. Experiment with csv data
